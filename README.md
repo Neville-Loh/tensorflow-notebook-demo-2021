@@ -7,26 +7,25 @@ Taught by Neville.
 ## ANN Demo (22 April, 2021)
 TensorFlow Hello World - Basic binray prediction
 
-Pre-requisite:  None
-Env: Google collab
-Slides: 
-Code: https://github.com/Neville-Loh/tensorflow-notebook-demo-2021/blob/master/model/ann-demo.ipynb  
+Pre-requisite:  None. 
+Env: Google collab  
+Data: /week1/ann-predit-demo/src/   
+Code: https://github.com/Neville-Loh/tensorflow-notebook-demo-2021/blob/master/model/ann-demo.ipynb   
 
 Slides: https://docs.google.com/presentation/d/17ngTEz9wMfdUMai3auPfTdPQMDlfwmK3rncVsv54occ/edit
-Data: /week1/ann-predit-demo/src/  
 
 ## CNN Demo (3 April, 2021)
 Introduction to Convolution Neural Network(CNN)  
 Processing Cat images  
 
-Pre-requisite:  
+Data: /week2/image-reg-demo/data/   
+Code: https://github.com/Neville-Loh/tensorflow-notebook-demo-2021/blob/master/model/cnn_demo.ipynb   
+Slides: https://docs.google.com/presentation/d/1yd8Jcp1wo5hDyvwIhAX6LiD2dZ2Oo2Z88BZzyfMSook/edit    
+
+### Pre-requisite:  
 Please install TensorFlow 2.4 before you attend the session.   
 https://github.com/NeedsSoySauce/Create-ML-Notebook.   
 
-
-Slides: https://docs.google.com/presentation/d/1yd8Jcp1wo5hDyvwIhAX6LiD2dZ2Oo2Z88BZzyfMSook/edit   
-Code: https://github.com/Neville-Loh/tensorflow-notebook-demo-2021/blob/master/model/cnn_demo.ipynb   
-Data: /week2/image-reg-demo/data/  
 
 Visualization Tool:  
 https://www.cs.ryerson.ca/~aharley/vis/conv/flat.html
@@ -39,7 +38,7 @@ RU-Layer Intro Reading,   Jay Kuo, University of Southern California
 https://arxiv.org/pdf/1609.04112.pdf
 
 
-Why MaxPooling   , Dominik Scherer, University of Bonn, Institute of Computer Science VI
+Why MaxPooling   , Dominik Scherer, University of Bonn, Institute of Computer Science VI  
 https://www.ais.uni-bonn.de/papers/icann2010_maxpool.pdf  
 
 
