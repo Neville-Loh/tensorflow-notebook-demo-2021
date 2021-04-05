@@ -37,12 +37,13 @@ https://www.cs.ryerson.ca/~aharley/vis/conv/flat.html
 
 
 ## Unsupervised Learning (SOMs - Hands On) 
-Date: TBA  
+Date: 5 April  
 Loaction: TBA  
 
 ## GIS Data Pre-Processing
-(TBA)
-## Advanced Techniques for Hypertunning
+Date: 6 April.  
+
+## Advanced Techniques for Hypertuning
 (TBA)
 ## AWS SageMaker Deployment
 (TBA)
